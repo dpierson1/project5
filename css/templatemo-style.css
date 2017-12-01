@@ -108,10 +108,10 @@ p { line-height: 2; }
 	margin: 0 auto;
 }
 
-img-fluid {
+.img-fluid {
 	width: auto;
 	max-width: 100%;
-    height: auto
+        height: auto
 }
 
 .tm-contact-right { margin-top: 40px; }
