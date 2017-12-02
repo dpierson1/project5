@@ -157,6 +157,12 @@ textarea:-ms-input-placeholder {
 .tm-contact-right {	padding-left: 15px; }
 .tm-copyright-p { margin-bottom: 0; }
 
+.img-fluid {
+	max-width: 100%
+	height: auto;
+	overflow: auto;
+}
+
 /* Media Queries */
 @media (min-width: 576px) {
 	.container { width: 100%; }
