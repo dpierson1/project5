@@ -97,7 +97,10 @@ p { line-height: 2; }
 	color: #ff0000;
 }
 
-
+.img-fluid{
+	width:100%;
+	height:auto;
+}
 
 .tm-about-img-container { margin-top: 50px; }
 
