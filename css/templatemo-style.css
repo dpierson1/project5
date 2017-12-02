@@ -158,10 +158,6 @@ textarea:-ms-input-placeholder {
 .tm-copyright-p { margin-bottom: 0; }
 
 /* Media Queries */
-@media (max-width:480px) {
-	width: 400px;
-}
-
 @media (min-width: 576px) {
 	.container { width: 100%; }
 	.tm-site-name { margin-top: 35px; }
